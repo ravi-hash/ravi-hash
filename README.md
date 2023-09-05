@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://ravi-cs.vercel.app/static/media/IMG_20221220_082823_593-removebg-preview.76c8fde38cd168511be8.png"  />
+  <img height="300" src="https://ravi-cs.vercel.app/static/media/IMG_20221220_082823_593-removebg-preview.76c8fde38cd168511be8.png"  />
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi there👋! My name is RAVI and i'm passionate and driven individual with a deep love for the world of Machine Learning  and Artificial Intelligence.</h1>
+<h3 align="left">Hi there👋! My name is RAVI and i'm passionate and driven individual with a deep love for the world of Machine Learning  and Artificial Intelligence.</h3>
 
 ###
 
